@@ -1,0 +1,204 @@
+<!-- SECTION GALLERY -->
+		<div class="section-page-landing" id="gallery">
+			<div class="inner-section">
+			
+				<!-- MODAL PORTFOLIO -->
+				<div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+					<div class="modal-content">
+						
+						<!-- MODAL HEADER -->
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+							<h4 class="modal-title" id="myModalLabel">photo1</h4>
+						</div>
+						
+						<!-- MODAL BODY -->
+						<div class="modal-body">
+						<img src="images/blog-img/image001.jpg" class="img-responsive" alt="Image portfolio">
+						<hr />
+							<div class="row">
+								<div class="col-sm-12">
+									<p style="text-align: justify">
+									Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+									</p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				  </div>
+				</div>
+				<!-- END MODAL PORTFOLIO -->
+                
+                <!-- MODAL PORTFOLIO -->
+				<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+					<div class="modal-content">
+						
+						<!-- MODAL HEADER -->
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+							<h4 class="modal-title" id="myModalLabel">photo2</h4>
+						</div>
+						
+						<!-- MODAL BODY -->
+						<div class="modal-body">
+						<img src="images/blog-img/image001.jpg" class="img-responsive" alt="Image portfolio">
+						<hr />
+							<div class="row">
+								<div class="col-sm-12">
+									<p style="text-align: justify">
+									Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+									</p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				  </div>
+				</div>
+				<!-- END MODAL PORTFOLIO -->
+				
+				
+				
+				<div class="container">
+					<h2 class="text-center">Gallery</h2>
+					<div class="portfolio-landing">
+						
+						<!-- PORTFOLIO GRID CONTENT -->
+						<ul id="portfolio-grid">
+							<li class="mix ui_design">
+								<div class="des">
+									<h4>Photo1</h4>
+									<p>descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal1"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small001.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix logo_design">
+								<div class="des">
+									<h4>Photo2</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal2"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small002.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix photography">
+								<div class="des">
+									<h4>Photo3</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small003.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix ui_design">
+								<div class="des">
+									<h4>Photo4</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small004.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix web_design">
+								<div class="des">
+									<h4>Photo5</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small005.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix logo_design">
+								<div class="des">
+									<h4>Photo6</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small006.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix psd_template">
+								<div class="des">
+									<h4>Photo7</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small007.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix logo_design">
+								<div class="des">
+									<h4>Photo8</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small008.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix ui_design">
+								<div class="des">
+									<h4>Photo9</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small009.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix psd_template">
+								<div class="des">
+									<h4>Photo10</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small010.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix web_design">
+								<div class="des">
+									<h4>Photo11</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small001.jpg" alt="Image portfolio">
+							</li>
+							<li class="mix psd_template">
+								<div class="des">
+									<h4>Photo12</h4>
+									<p>Short descriptions</p>
+									<p>
+										<a data-toggle="modal" data-target="#myModal"><i class="fa fa-share"></i></a>
+									</p>
+								</div>
+								<img src="images/image_small/image_small002.jpg" alt="Image portfolio">
+							</li>
+						</ul>
+						<!-- END PORTFOLIO GRID CONTENT -->
+						
+						
+					</div>
+				</div>
+				
+				
+			</div>
+		</div>
+		<!-- END SECTION PORTFOLIO -->
+		
+		
+		
